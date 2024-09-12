@@ -11,7 +11,7 @@ Projects: Overview of my significant projects.
 Usage
 To use or modify the resume, simply clone or download this repository and make changes to the index.html file.
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://himanshush24.github.io/my-resume-website/
 
 File Structure
 index.html: The main file for the resume website.
